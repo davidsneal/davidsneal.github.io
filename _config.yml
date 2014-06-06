@@ -1,0 +1,10 @@
+# Site settings
+title: David S. Neal
+email: me@davidsneal.co.uk
+description: "Ramblings of a geek, gramblings if you will.<br/>This website is hosted by <b><a href='http://github.com'>GitHub</a></b>."
+baseurl: ""
+url: "http://www.davidsneal.co.uk"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
