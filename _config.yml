@@ -1,12 +1,23 @@
-title:        David S. Neal
-tagline:      'The ramblings of a geek'
-description:  'The ramblings of a geek, gramblings if you will. Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and hosted by <a href="https://github.com" target="_blank">GitHub</a>.'
-url:          http://blog.davidsneal.co.uk
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            David S. Neal
+tagline:          'The ramblings of a geek'
+description:      'The ramblings of a geek, gramblings if you will. Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and hosted by <a href="https://github.com" target="_blank">GitHub</a>.'
+url:              http://blog.davidsneal.co.uk
 
 author:
-  name:       'David S. Neal'
-  email:      'me@davidsneal.co.uk'
-markdown:     rdiscount
-permalink:    pretty
-pygments:     true
-paginate:     5
+  name:           'David S. Neal'
+  url:            http://www.davidsneal.co.uk
+
+paginate:         1
+
+# Custom vars
+
+github:
+  repo:           https://github.com/davidsneal/davidsneal.github.io
