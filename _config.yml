@@ -1,10 +1,12 @@
-# Site settings
-title: David S. Neal
-email: me@davidsneal.co.uk
-description: "Ramblings of a geek, gramblings if you will.<br/>This website is hosted by <b><a href='http://github.com'>GitHub</a></b>."
-baseurl: ""
-url: "http://www.davidsneal.co.uk"
+title:        David S. Neal
+tagline:      'The ramblings of a geek'
+description:  'The ramblings of a geek, gramblings if you will. Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and hosted by <a href="https://github.com" target="_blank">GitHub</a>.'
+url:          http://blog.davidsneal.co.uk
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+author:
+  name:       'David S. Neal'
+  email:      'me@davidsneal.co.uk'
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
