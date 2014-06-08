@@ -257,11 +257,3 @@ a.sidebar-nav-item:focus {
 .theme-base-dsn .related-posts li a:hover {
   color: #da635d;
 }
-
-/* Custom teal */
-.theme-base-dsn .sidebar {
-  background-color: #4A4857;
-}
-.theme-base-dsn .content a,
-.theme-base-dsn .related-posts li a:hover {
-  color: #6DA67A} 
