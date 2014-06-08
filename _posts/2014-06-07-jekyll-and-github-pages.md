@@ -4,7 +4,7 @@ title: GitHub Pages and Jekyll
 excerpt: This is an excerpt
 ---
 
-Considering this blog itself is powered by [Jekyll](http://jekyllrb.com) and powered by [GitHub](https://github.com/), it seems quite fitting that my first post should be about it.
+Considering this blog itself is powered by [Jekyll](http://jekyllrb.com) and hosted by [GitHub](https://github.com/), it seems quite fitting that my first post should be about it.
 
 -----
 
