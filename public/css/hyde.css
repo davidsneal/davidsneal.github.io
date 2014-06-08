@@ -249,11 +249,16 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Custom red */
+/* Custom davidsneal */
 .theme-base-dsn .sidebar {
-  background-color: #4e4e56;
+  background-color: #1abc9c;
 }
 .theme-base-dsn .content a,
 .theme-base-dsn .related-posts li a:hover {
-  color: #da635d;
+  color: #1abc9c;
+}
+
+blockquote {
+  background-color: #eee;
+  border-left: .25rem solid #1abc9c;
 }
