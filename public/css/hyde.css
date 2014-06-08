@@ -204,7 +204,7 @@ a.sidebar-nav-item:focus {
   color: #f4bf75;
 }
 
-/* Green */
+/* Green */Hi 
 .theme-base-0b .sidebar {
   background-color: #90a959;
 }
@@ -251,9 +251,9 @@ a.sidebar-nav-item:focus {
 
 /* Custom */
 .theme-base-dsn .sidebar {
-  background-color: #202020;
+  background-color: #4e4e56;
 }
 .theme-base-dsn .content a,
 .theme-base-dsn .related-posts li a:hover {
-  color: #00A8C6;
+  color: #da635d;
 }
